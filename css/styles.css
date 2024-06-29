@@ -3576,7 +3576,7 @@ td:last-child {
  * ------------------------------------------------------------------- */
 .s-intro {
 	--content-padding-top: max(10rem, 18vh);
-	--content-padding-bottom: 10.8rem;
+	--content-padding-bottom: 15.8rem;
 	--content-min-height: calc(var(--vspace-1) * 27);
 	z-index: 2;
 	background-color: var(--color-2-dark);
